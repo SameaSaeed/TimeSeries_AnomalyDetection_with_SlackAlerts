@@ -7,5 +7,3 @@
 
 
 
-<img width="1912" height="732" alt="Slack_alert" src="https://github.com/user-attachments/assets/1dfc48fe-aeae-43c9-880c-d0b677cd1058" />
-
